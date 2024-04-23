@@ -1,16 +1,25 @@
 # <div align ="center"> Hi there 👋</div>
 
 
-🔭 I’m currently using ...
-<code>
- UNITY & C# 
-</code>
+#### <div align ="center"> 🔭 I’m currently using ... </div>
 
-🌱 I’m currently learning ...
+<div align="center">
+ 
+```
+UNITY & C#  
+```
+
+</div>
+
+#### <div align ="center"> 🌱 I’m currently learning ... </div>
+
+<div align="center">
+
 ```
 UNREAL ENGINE & C++
 ```
 
+</div>
 
 <!--
 **JUNSUNG06/JUNSUNG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
