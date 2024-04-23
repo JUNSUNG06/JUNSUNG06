@@ -1,6 +1,8 @@
 # Hi there 👋
 
-🔭 I’m using now ...
+
+
+🔭 I’m currently using ...
 ```
 UNITY & C#
 ```
