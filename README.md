@@ -1,7 +1,7 @@
 # <div align ="center"> Hi there 👋</div>
 
 
-#### <div align ="center"> 🔭 I’m currently using ... </div>
+### <div align ="center"> 🔭 I’m currently using ... </div>
 
 <div align="center">
  
@@ -11,7 +11,7 @@ UNITY & C#
 
 </div>
 
-#### <div align ="center"> 🌱 I’m currently learning ... </div>
+### <div align ="center"> 🌱 I’m currently learning ... </div>
 
 <div align="center">
 
