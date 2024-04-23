@@ -1,11 +1,10 @@
 # Hi there 👋
 
 
-<center> 🔭 I’m currently using ... </center>
+🔭 I’m currently using ...
 ```
 UNITY & C#
 ```
-
 
 🌱 I’m currently learning ...
 ```
