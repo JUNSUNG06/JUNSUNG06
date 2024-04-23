@@ -1,7 +1,9 @@
 # Hi there 👋
 
 🌱 I’m currently learning ...
-`GAME DEVELOPMENT`
+```
+GAME DEVELOPMENT
+```
 <!--
 **JUNSUNG06/JUNSUNG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
