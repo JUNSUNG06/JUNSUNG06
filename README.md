@@ -1,10 +1,10 @@
-# Hi there 👋
+# <div align ="center"> Hi there 👋</div>
 
 
 🔭 I’m currently using ...
-```
-UNITY & C#
-```
+<code>
+ UNITY & C# 
+</code>
 
 🌱 I’m currently learning ...
 ```
