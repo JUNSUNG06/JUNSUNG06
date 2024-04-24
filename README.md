@@ -1,8 +1,12 @@
 # <div align ="center"> Hi there 👋</div>
+
+<div align ="center">
  
 ```
 Welcome to my github, I'm Game Client Developer
 ```
+
+</div>
 
 ### <div align ="center"> 🔭 I’m currently using ... </div>
 
@@ -30,7 +34,7 @@ Welcome to my github, I'm Game Client Developer
 
 ***
 
-<div align="center">
+<div align="justify">
 
 ![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/languages.svg)
