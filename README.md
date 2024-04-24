@@ -34,7 +34,7 @@ Welcome to my github, I'm Game Client Developer
 
 ***
 
-<div align="justify">
+<div align="center">
 
 ![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/languages.svg)
