@@ -1,5 +1,13 @@
 # <div align ="center"> Hi there 👋</div>
 
+<div align="center">
+ 
+```
+Welcome to my github, I'm Game Client Developer
+```
+
+</div>
+
 
 ### <div align ="center"> 🔭 I’m currently using ... </div>
 
