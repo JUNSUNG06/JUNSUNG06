@@ -31,7 +31,7 @@ UNREAL ENGINE & C++
 
 <a href="https://solved.ac/anwl"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwl&theme=dark"/></a>
 
-### about me
+### About Me
 <p><a href="https://wnstjd0605.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?logo=tistory&logoColor=white"></a></p>
 <p><a href="https://www.youtube.com/channel/UCV-caO_GNgfbttuqRYtCJ2A"><img src="https://img.shields.io/badge/-Youtube-white?logo=youtube&logoColor=red"></a></p>
 <p><a href="https://ggm.gondr.net/user/profile/187"><img src="https://img.shields.io/badge/-Portfolio-darkgreen?logo=&logoColor=white"></a></p>
