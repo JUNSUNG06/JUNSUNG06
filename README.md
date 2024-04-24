@@ -22,7 +22,6 @@ Welcome to my github, I'm Game Client Developer
  <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=Cplusplus&logoColor=white">
 </p>
 
-
 ***
 
 <a href="https://solved.ac/anwl"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwl&theme=dark"/></a>
