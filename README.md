@@ -11,23 +11,19 @@ Welcome to my github, I'm Game Client Developer
 
 ### <div align ="center"> 🔭 I’m currently using ... </div>
 
-<div align="center">
- 
-```
-UNITY & C#  
-```
-
-</div>
+<p align="center">
+ <img src="https://img.shields.io/badge/-Unity-black?logo=Unity&logoColor=white">
+ <img src="https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white">
+</p>
 
 ### <div align ="center"> 🌱 I’m currently learning ... </div>
 
-<div align="center">
+<p align="center">
+ <img src="https://img.shields.io/badge/-UE5-white?logo=unrealengine&logoColor=white&color=%230E1128">
+ <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=Cplusplus&logoColor=white">
+</p>
 
-```
-UNREAL ENGINE & C++
-```
-
-</div>
+***
 
 <a href="https://solved.ac/anwl"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwl&theme=dark"/></a>
 
