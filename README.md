@@ -31,6 +31,14 @@ Welcome to my github, I'm Game Client Developer
 <p><a href="https://wnstjd0605.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?logo=tistory&logoColor=white"></a></p>
 <p><a href="https://www.youtube.com/channel/UCV-caO_GNgfbttuqRYtCJ2A"><img src="https://img.shields.io/badge/-Youtube-white?logo=youtube&logoColor=red"></a></p>
 <p><a href="https://ggm.gondr.net/user/profile/187"><img src="https://img.shields.io/badge/-Portfolio-darkgreen?logo=&logoColor=white"></a></p>
+
+***
+
+
+![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/JUNSUNG06/github-stats-transparent/output/generated/languages.svg)
+
+
 <!--
 **JUNSUNG06/JUNSUNG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
