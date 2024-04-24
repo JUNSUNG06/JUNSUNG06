@@ -29,7 +29,11 @@ UNREAL ENGINE & C++
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anwl)](https://solved.ac/anwl/) 
+<a href="https://solved.ac/anwl"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwl&theme=dark"/></a>
+
+about me
+<p><a href="https://wnstjd0605.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?logo=tistory&logoColor=white"></a></p>
+<p><a href="https://ggm.gondr.net/user/profile/187"><img src="https://img.shields.io/badge/-Portfolis-orange?logo=&logoColor=white"></a></p>
 <!--
 **JUNSUNG06/JUNSUNG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
